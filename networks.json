@@ -1,0 +1,11 @@
+{
+  "mainnet": {
+    "TransparentUpgradeableProxy": {
+      "address": "0x135DDa560e946695d6f155dACaFC6f1F25C1F5AF",
+      "startBlock": 19492759
+    },
+    "AVSDirectory": {
+      "address": "0x135DDa560e946695d6f155dACaFC6f1F25C1F5AF"
+    }
+  }
+}
